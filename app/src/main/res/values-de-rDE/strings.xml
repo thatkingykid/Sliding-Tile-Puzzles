@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ACW</string>
+    <string name="game_over">"Spiel ist aus "</string>
+    <string name="high_score">"Du hast den Highscore "</string>
+    <string name="no_high_score">"Du hast den Highscore nicht erreicht "</string>
+    <string name="download_all">"Alles Herunterladen "</string>
+    <string name="moves">"Wendet Sich  "</string>
+    <string name="puzzle">Puzzle</string>
+    <string name="score">Ergebnis</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ACW</string>
+    <string name="game_over">Game over!</string>
+    <string name="high_score">You got the level\'s high score!</string>
+    <string name="no_high_score">You didn\'t achieve the high score! Better luck next time!</string>
+    <string name="download_all">Download All</string>
+    <string name="moves" formatted="false">Moves: %d</string>
+    <string name="puzzle">Puzzle %d</string>
+    <string name="score">Score</string>
+</resources>
